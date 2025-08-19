@@ -20,7 +20,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url('/nairobi-alcohol-delivery.png')`,
+          backgroundImage: `url('https://images.pexels.com/photos/13891130/pexels-photo-13891130.jpeg')`,
         }}
       ></div>
 
@@ -46,7 +46,7 @@ export default function Hero() {
           </button>
 
           <a
-            href="https://wa.me/254700000000"
+            href="https://wa.me/254705494795"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-transparent border-2 border-white text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-white hover:text-purple-900 transition-all duration-300"
