@@ -1,0 +1,254 @@
+{
+  "products": [
+    {
+      "id": "johnnie-walker-black-750ml",
+      "name": "Johnnie Walker Black Label 750ml",
+      "category": "Whisky",
+      "price": 4500,
+      "size": "750ml",
+      "image": "images/whisky/johnnie-walker-black.jpg",
+      "tags": ["premium", "bestseller", "scotch"],
+      "description": "Smooth blended Scotch whisky with rich smoky flavor."
+    },
+    {
+      "id": "moet-chandon-imperial-750ml",
+      "name": "Moët & Chandon Impérial Brut 750ml",
+      "category": "Champagne",
+      "price": 10500,
+      "size": "750ml",
+      "image": "images/champagne/moet-chandon-imperial.jpg",
+      "tags": ["luxury", "celebration", "trending"],
+      "description": "World-famous champagne perfect for celebrations and gifts."
+    },
+    {
+      "id": "heineken-lager-500ml",
+      "name": "Heineken Lager Beer 500ml",
+      "category": "Beer",
+      "price": 280,
+      "size": "500ml",
+      "image": "images/beer/heineken-lager.jpg",
+      "tags": ["popular", "lager", "refreshing"],
+      "description": "Crisp and refreshing lager brewed to perfection."
+    },
+    {
+      "id": "grey-goose-vodka-750ml",
+      "name": "Grey Goose Vodka 750ml",
+      "category": "Vodka",
+      "price": 6800,
+      "size": "750ml",
+      "image": "images/vodka/grey-goose.jpg",
+      "tags": ["premium", "luxury", "smooth"],
+      "description": "Ultra-premium French vodka with exceptional smoothness."
+    },
+    {
+      "id": "bombay-sapphire-gin-750ml",
+      "name": "Bombay Sapphire Gin 750ml",
+      "category": "Gin",
+      "price": 3200,
+      "size": "750ml",
+      "image": "images/gin/bombay-sapphire.jpg",
+      "tags": ["premium", "botanical", "classic"],
+      "description": "Premium London Dry Gin with 10 botanicals."
+    },
+    {
+      "id": "hennessy-vs-cognac-700ml",
+      "name": "Hennessy V.S Cognac 700ml",
+      "category": "Cognac",
+      "price": 8500,
+      "size": "700ml",
+      "image": "images/cognac/hennessy-vs.jpg",
+      "tags": ["luxury", "premium", "cognac"],
+      "description": "World's most popular cognac with rich heritage."
+    },
+    {
+      "id": "konyagi-gin-750ml",
+      "name": "Konyagi Gin 750ml",
+      "category": "Gin",
+      "price": 1800,
+      "size": "750ml",
+      "image": "images/gin/konyagi.jpg",
+      "tags": ["local", "affordable", "popular"],
+      "description": "Tanzania's premium gin with smooth taste."
+    },
+    {
+      "id": "tusker-lager-500ml",
+      "name": "Tusker Lager Beer 500ml",
+      "category": "Beer",
+      "price": 220,
+      "size": "500ml",
+      "image": "images/beer/tusker-lager.jpg",
+      "tags": ["local", "popular", "refreshing"],
+      "description": "Kenya's favorite lager beer since 1922."
+    },
+    {
+      "id": "white-cap-lager-500ml",
+      "name": "White Cap Lager Beer 500ml",
+      "category": "Beer",
+      "price": 200,
+      "size": "500ml",
+      "image": "images/beer/white-cap.jpg",
+      "tags": ["local", "affordable", "light"],
+      "description": "Light and refreshing Kenyan lager beer."
+    },
+    {
+      "id": "jameson-irish-whiskey-750ml",
+      "name": "Jameson Irish Whiskey 750ml",
+      "category": "Whisky",
+      "price": 3800,
+      "size": "750ml",
+      "image": "images/whisky/jameson.jpg",
+      "tags": ["irish", "smooth", "popular"],
+      "description": "Triple-distilled Irish whiskey with smooth finish."
+    },
+    {
+      "id": "absolut-vodka-750ml",
+      "name": "Absolut Vodka 750ml",
+      "category": "Vodka",
+      "price": 2800,
+      "size": "750ml",
+      "image": "images/vodka/absolut.jpg",
+      "tags": ["premium", "swedish", "classic"],
+      "description": "Premium Swedish vodka with pure taste."
+    },
+    {
+      "id": "baileys-irish-cream-750ml",
+      "name": "Baileys Irish Cream 750ml",
+      "category": "Extras",
+      "price": 3500,
+      "size": "750ml",
+      "image": "images/extras/baileys.jpg",
+      "tags": ["cream", "sweet", "popular"],
+      "description": "Original Irish cream liqueur with smooth taste."
+    },
+    {
+      "id": "red-label-wine-750ml",
+      "name": "Red Label Wine 750ml",
+      "category": "Wine",
+      "price": 1200,
+      "size": "750ml",
+      "image": "images/wine/red-label.jpg",
+      "tags": ["affordable", "red", "local"],
+      "description": "Quality red wine perfect for any occasion."
+    },
+    {
+      "id": "nederburg-wine-750ml",
+      "name": "Nederburg Wine 750ml",
+      "category": "Wine",
+      "price": 2200,
+      "size": "750ml",
+      "image": "images/wine/nederburg.jpg",
+      "tags": ["south-african", "premium", "white"],
+      "description": "Premium South African wine with elegant taste."
+    },
+    {
+      "id": "martell-vs-cognac-700ml",
+      "name": "Martell V.S Cognac 700ml",
+      "category": "Cognac",
+      "price": 7800,
+      "size": "700ml",
+      "image": "images/cognac/martell-vs.jpg",
+      "tags": ["luxury", "french", "smooth"],
+      "description": "French cognac with distinctive smooth character."
+    },
+    {
+      "id": "captain-morgan-rum-750ml",
+      "name": "Captain Morgan Spiced Rum 750ml",
+      "category": "Extras",
+      "price": 2800,
+      "size": "750ml",
+      "image": "images/extras/captain-morgan.jpg",
+      "tags": ["spiced", "rum", "popular"],
+      "description": "Original spiced rum with rich vanilla notes."
+    },
+    {
+      "id": "guinness-stout-500ml",
+      "name": "Guinness Stout 500ml",
+      "category": "Beer",
+      "price": 320,
+      "size": "500ml",
+      "image": "images/beer/guinness.jpg",
+      "tags": ["stout", "dark", "premium"],
+      "description": "Rich and creamy Irish stout with distinctive taste."
+    },
+    {
+      "id": "smirnoff-vodka-750ml",
+      "name": "Smirnoff Vodka 750ml",
+      "category": "Vodka",
+      "price": 2200,
+      "size": "750ml",
+      "image": "images/vodka/smirnoff.jpg",
+      "tags": ["popular", "smooth", "classic"],
+      "description": "World's most popular vodka with smooth taste."
+    },
+    {
+      "id": "tanqueray-gin-750ml",
+      "name": "Tanqueray London Dry Gin 750ml",
+      "category": "Gin",
+      "price": 3800,
+      "size": "750ml",
+      "image": "images/gin/tanqueray.jpg",
+      "tags": ["premium", "london-dry", "botanical"],
+      "description": "Premium London Dry Gin with perfect balance."
+    },
+    {
+      "id": "dom-perignon-champagne-750ml",
+      "name": "Dom Pérignon Champagne 750ml",
+      "category": "Champagne",
+      "price": 28000,
+      "size": "750ml",
+      "image": "images/champagne/dom-perignon.jpg",
+      "tags": ["luxury", "premium", "celebration"],
+      "description": "Legendary champagne for the most special occasions."
+    },
+    {
+      "id": "macallan-12-whisky-700ml",
+      "name": "Macallan 12 Year Old 700ml",
+      "category": "Whisky",
+      "price": 12500,
+      "size": "700ml",
+      "image": "images/whisky/macallan-12.jpg",
+      "tags": ["luxury", "aged", "single-malt"],
+      "description": "Premium single malt Scotch whisky aged 12 years."
+    },
+    {
+      "id": "corona-extra-355ml",
+      "name": "Corona Extra 355ml",
+      "category": "Beer",
+      "price": 350,
+      "size": "355ml",
+      "image": "images/beer/corona.jpg",
+      "tags": ["mexican", "light", "refreshing"],
+      "description": "Light Mexican beer perfect with lime."
+    },
+    {
+      "id": "veuve-clicquot-champagne-750ml",
+      "name": "Veuve Clicquot Brut 750ml",
+      "category": "Champagne",
+      "price": 15500,
+      "size": "750ml",
+      "image": "images/champagne/veuve-clicquot.jpg",
+      "tags": ["luxury", "french", "celebration"],
+      "description": "Prestigious French champagne with golden elegance."
+    },
+    {
+      "id": "remy-martin-vsop-700ml",
+      "name": "Rémy Martin VSOP 700ml",
+      "category": "Cognac",
+      "price": 11500,
+      "size": "700ml",
+      "image": "images/cognac/remy-martin-vsop.jpg",
+      "tags": ["luxury", "aged", "smooth"],
+      "description": "Premium cognac with exceptional smoothness and complexity."
+    },
+    {
+      "id": "kahlua-coffee-liqueur-750ml",
+      "name": "Kahlúa Coffee Liqueur 750ml",
+      "category": "Extras",
+      "price": 3200,
+      "size": "750ml",
+      "image": "images/extras/kahlua.jpg",
+      "tags": ["coffee", "sweet", "cocktail"],
+      "description": "Rich coffee liqueur perfect for cocktails and desserts."
+    }
+  ]
+}
