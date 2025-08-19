@@ -5,21 +5,21 @@ export default function Testimonials() {
       location: "Westlands, Nairobi",
       rating: 5,
       text: "Amazing service! Ordered Johnnie Walker for my husband's birthday and it arrived in 25 minutes. The delivery guy was professional and the packaging was perfect.",
-      avatar: "/african-woman-smiling.png",
+      avatar: "/images/african-woman-smiling.png",
     },
     {
       name: "Michael Ochieng",
       location: "Karen, Nairobi",
       rating: 5,
       text: "Best liquor delivery in Nairobi! Great prices, fast delivery, and excellent customer service. I've been using Bomani Liquor for all my party needs.",
-      avatar: "/african-man-professional.png",
+      avatar: "/images/african-man-professional.png",
     },
     {
       name: "Grace Muthoni",
       location: "Kilimani, Nairobi",
       rating: 5,
       text: "Reliable and convenient! Love that I can pay via Mpesa. The wine selection is fantastic and delivery is always on time. Highly recommend!",
-      avatar: "/african-woman-business.png",
+      avatar: "/images/african-woman-business.png",
     },
   ]
 

@@ -6,7 +6,7 @@
       "category": "Whisky",
       "price": 4500,
       "size": "750ml",
-      "image": "images/whisky/johnnie-walker-black.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["premium", "bestseller", "scotch"],
       "description": "Smooth blended Scotch whisky with rich smoky flavor."
     },
@@ -16,7 +16,7 @@
       "category": "Champagne",
       "price": 10500,
       "size": "750ml",
-      "image": "images/champagne/moet-chandon-imperial.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["luxury", "celebration", "trending"],
       "description": "World-famous champagne perfect for celebrations and gifts."
     },
@@ -26,7 +26,7 @@
       "category": "Beer",
       "price": 280,
       "size": "500ml",
-      "image": "images/beer/heineken-lager.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["popular", "lager", "refreshing"],
       "description": "Crisp and refreshing lager brewed to perfection."
     },
@@ -36,7 +36,7 @@
       "category": "Vodka",
       "price": 6800,
       "size": "750ml",
-      "image": "images/vodka/grey-goose.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["premium", "luxury", "smooth"],
       "description": "Ultra-premium French vodka with exceptional smoothness."
     },
@@ -46,7 +46,7 @@
       "category": "Gin",
       "price": 3200,
       "size": "750ml",
-      "image": "images/gin/bombay-sapphire.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["premium", "botanical", "classic"],
       "description": "Premium London Dry Gin with 10 botanicals."
     },
@@ -56,7 +56,7 @@
       "category": "Cognac",
       "price": 8500,
       "size": "700ml",
-      "image": "images/cognac/hennessy-vs.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["luxury", "premium", "cognac"],
       "description": "World's most popular cognac with rich heritage."
     },
@@ -66,7 +66,7 @@
       "category": "Gin",
       "price": 1800,
       "size": "750ml",
-      "image": "images/gin/konyagi.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["local", "affordable", "popular"],
       "description": "Tanzania's premium gin with smooth taste."
     },
@@ -76,7 +76,7 @@
       "category": "Beer",
       "price": 220,
       "size": "500ml",
-      "image": "images/beer/tusker-lager.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["local", "popular", "refreshing"],
       "description": "Kenya's favorite lager beer since 1922."
     },
@@ -86,7 +86,7 @@
       "category": "Beer",
       "price": 200,
       "size": "500ml",
-      "image": "images/beer/white-cap.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["local", "affordable", "light"],
       "description": "Light and refreshing Kenyan lager beer."
     },
@@ -96,7 +96,7 @@
       "category": "Whisky",
       "price": 3800,
       "size": "750ml",
-      "image": "images/whisky/jameson.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["irish", "smooth", "popular"],
       "description": "Triple-distilled Irish whiskey with smooth finish."
     },
@@ -106,7 +106,7 @@
       "category": "Vodka",
       "price": 2800,
       "size": "750ml",
-      "image": "images/vodka/absolut.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["premium", "swedish", "classic"],
       "description": "Premium Swedish vodka with pure taste."
     },
@@ -116,7 +116,7 @@
       "category": "Extras",
       "price": 3500,
       "size": "750ml",
-      "image": "images/extras/baileys.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["cream", "sweet", "popular"],
       "description": "Original Irish cream liqueur with smooth taste."
     },
@@ -126,7 +126,7 @@
       "category": "Wine",
       "price": 1200,
       "size": "750ml",
-      "image": "images/wine/red-label.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["affordable", "red", "local"],
       "description": "Quality red wine perfect for any occasion."
     },
@@ -136,7 +136,7 @@
       "category": "Wine",
       "price": 2200,
       "size": "750ml",
-      "image": "images/wine/nederburg.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["south-african", "premium", "white"],
       "description": "Premium South African wine with elegant taste."
     },
@@ -146,7 +146,7 @@
       "category": "Cognac",
       "price": 7800,
       "size": "700ml",
-      "image": "images/cognac/martell-vs.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["luxury", "french", "smooth"],
       "description": "French cognac with distinctive smooth character."
     },
@@ -156,7 +156,7 @@
       "category": "Extras",
       "price": 2800,
       "size": "750ml",
-      "image": "images/extras/captain-morgan.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["spiced", "rum", "popular"],
       "description": "Original spiced rum with rich vanilla notes."
     },
@@ -166,7 +166,7 @@
       "category": "Beer",
       "price": 320,
       "size": "500ml",
-      "image": "images/beer/guinness.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["stout", "dark", "premium"],
       "description": "Rich and creamy Irish stout with distinctive taste."
     },
@@ -176,7 +176,7 @@
       "category": "Vodka",
       "price": 2200,
       "size": "750ml",
-      "image": "images/vodka/smirnoff.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["popular", "smooth", "classic"],
       "description": "World's most popular vodka with smooth taste."
     },
@@ -186,7 +186,7 @@
       "category": "Gin",
       "price": 3800,
       "size": "750ml",
-      "image": "images/gin/tanqueray.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["premium", "london-dry", "botanical"],
       "description": "Premium London Dry Gin with perfect balance."
     },
@@ -196,7 +196,7 @@
       "category": "Champagne",
       "price": 28000,
       "size": "750ml",
-      "image": "images/champagne/dom-perignon.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["luxury", "premium", "celebration"],
       "description": "Legendary champagne for the most special occasions."
     },
@@ -206,7 +206,7 @@
       "category": "Whisky",
       "price": 12500,
       "size": "700ml",
-      "image": "images/whisky/macallan-12.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["luxury", "aged", "single-malt"],
       "description": "Premium single malt Scotch whisky aged 12 years."
     },
@@ -216,7 +216,7 @@
       "category": "Beer",
       "price": 350,
       "size": "355ml",
-      "image": "images/beer/corona.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["mexican", "light", "refreshing"],
       "description": "Light Mexican beer perfect with lime."
     },
@@ -226,7 +226,7 @@
       "category": "Champagne",
       "price": 15500,
       "size": "750ml",
-      "image": "images/champagne/veuve-clicquot.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["luxury", "french", "celebration"],
       "description": "Prestigious French champagne with golden elegance."
     },
@@ -236,7 +236,7 @@
       "category": "Cognac",
       "price": 11500,
       "size": "700ml",
-      "image": "images/cognac/remy-martin-vsop.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["luxury", "aged", "smooth"],
       "description": "Premium cognac with exceptional smoothness and complexity."
     },
@@ -246,7 +246,7 @@
       "category": "Extras",
       "price": 3200,
       "size": "750ml",
-      "image": "images/extras/kahlua.jpg",
+      "image": "/images/abstract-geometric-shapes.png",
       "tags": ["coffee", "sweet", "cocktail"],
       "description": "Rich coffee liqueur perfect for cocktails and desserts."
     }

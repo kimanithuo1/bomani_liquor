@@ -12,7 +12,7 @@ export default function ContactCTA() {
   const handleSubmit = (e) => {
     e.preventDefault()
     const message = `Hi! I'm ${formData.name}. Phone: ${formData.phone}. Order: ${formData.orderDetails}`
-    const whatsappUrl = `https://wa.me/254700000000?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/254705494795?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
@@ -37,7 +37,7 @@ export default function ContactCTA() {
             {/* Contact Methods */}
             <div className="space-y-6">
               <a
-                href="https://wa.me/254700000000"
+                href="https://wa.me/254705494795"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 bg-green-600 hover:bg-green-700 px-6 py-4 rounded-xl transition-colors"
@@ -45,18 +45,18 @@ export default function ContactCTA() {
                 <span className="text-2xl">📱</span>
                 <div>
                   <div className="font-semibold">WhatsApp</div>
-                  <div className="text-green-100">+254 700 000 000</div>
+                  <div className="text-green-100">+254 705 494 795</div>
                 </div>
               </a>
 
               <a
-                href="tel:+254700000000"
+                href="tel:+254705494795"
                 className="flex items-center gap-4 bg-blue-600 hover:bg-blue-700 px-6 py-4 rounded-xl transition-colors"
               >
                 <span className="text-2xl">📞</span>
                 <div>
                   <div className="font-semibold">Call Us</div>
-                  <div className="text-blue-100">+254 700 000 000</div>
+                  <div className="text-blue-100">+254 705 494 795</div>
                 </div>
               </a>
 
