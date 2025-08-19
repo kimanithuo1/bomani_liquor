@@ -76,7 +76,7 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <span>📱</span>
-                <span className="text-purple-200">+254 700 000 000</span>
+                <span className="text-purple-200">+254 705 494 795</span>
               </div>
               <div className="flex items-center gap-3">
                 <span>✉️</span>

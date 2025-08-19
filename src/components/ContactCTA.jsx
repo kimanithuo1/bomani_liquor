@@ -106,7 +106,7 @@ export default function ContactCTA() {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent"
-                  placeholder="+254 700 000 000"
+                  placeholder="+254 705 494 795"
                 />
               </div>
 
