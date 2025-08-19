@@ -6,7 +6,7 @@
       "category": "Whisky",
       "price": 4500,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor1.jpeg",
       "tags": ["premium", "bestseller", "scotch"],
       "description": "Smooth blended Scotch whisky with rich smoky flavor."
     },
@@ -16,7 +16,7 @@
       "category": "Champagne",
       "price": 10500,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor2.jpeg",
       "tags": ["luxury", "celebration", "trending"],
       "description": "World-famous champagne perfect for celebrations and gifts."
     },
@@ -26,7 +26,7 @@
       "category": "Beer",
       "price": 280,
       "size": "500ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor3.jpeg",
       "tags": ["popular", "lager", "refreshing"],
       "description": "Crisp and refreshing lager brewed to perfection."
     },
@@ -36,7 +36,7 @@
       "category": "Vodka",
       "price": 6800,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor4.jpeg",
       "tags": ["premium", "luxury", "smooth"],
       "description": "Ultra-premium French vodka with exceptional smoothness."
     },
@@ -46,7 +46,7 @@
       "category": "Gin",
       "price": 3200,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor1.jpeg",
       "tags": ["premium", "botanical", "classic"],
       "description": "Premium London Dry Gin with 10 botanicals."
     },
@@ -56,7 +56,7 @@
       "category": "Cognac",
       "price": 8500,
       "size": "700ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor2.jpeg",
       "tags": ["luxury", "premium", "cognac"],
       "description": "World's most popular cognac with rich heritage."
     },
@@ -66,7 +66,7 @@
       "category": "Gin",
       "price": 1800,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor3.jpeg",
       "tags": ["local", "affordable", "popular"],
       "description": "Tanzania's premium gin with smooth taste."
     },
@@ -76,7 +76,7 @@
       "category": "Beer",
       "price": 220,
       "size": "500ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor1.jpeg",
       "tags": ["local", "popular", "refreshing"],
       "description": "Kenya's favorite lager beer since 1922."
     },
@@ -96,7 +96,7 @@
       "category": "Whisky",
       "price": 3800,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor1.jpeg",
       "tags": ["irish", "smooth", "popular"],
       "description": "Triple-distilled Irish whiskey with smooth finish."
     },
@@ -116,7 +116,7 @@
       "category": "Extras",
       "price": 3500,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor3.jpeg",
       "tags": ["cream", "sweet", "popular"],
       "description": "Original Irish cream liqueur with smooth taste."
     },
@@ -126,7 +126,7 @@
       "category": "Wine",
       "price": 1200,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor2.jpeg",
       "tags": ["affordable", "red", "local"],
       "description": "Quality red wine perfect for any occasion."
     },
@@ -136,7 +136,7 @@
       "category": "Wine",
       "price": 2200,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor3.jpeg",
       "tags": ["south-african", "premium", "white"],
       "description": "Premium South African wine with elegant taste."
     },
@@ -146,7 +146,7 @@
       "category": "Cognac",
       "price": 7800,
       "size": "700ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor4.jpeg",
       "tags": ["luxury", "french", "smooth"],
       "description": "French cognac with distinctive smooth character."
     },
@@ -156,7 +156,7 @@
       "category": "Extras",
       "price": 2800,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor1.jpeg",
       "tags": ["spiced", "rum", "popular"],
       "description": "Original spiced rum with rich vanilla notes."
     },
@@ -176,7 +176,7 @@
       "category": "Vodka",
       "price": 2200,
       "size": "750ml",
-      "image": "/images/abstract-geometric-shapes.png",
+      "image": "/images/bomani-liquor2.jpeg",
       "tags": ["popular", "smooth", "classic"],
       "description": "World's most popular vodka with smooth taste."
     },

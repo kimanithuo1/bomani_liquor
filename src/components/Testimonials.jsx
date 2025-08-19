@@ -12,7 +12,7 @@ export default function Testimonials() {
       location: "Karen, Nairobi",
       rating: 5,
       text: "Best liquor delivery in Nairobi! Great prices, fast delivery, and excellent customer service. I've been using Bomani Liquor for all my party needs.",
-      avatar: "/images/african-man-professional.png",
+      avatar: "/images/african-man-professional.jpeg",
     },
     {
       name: "Grace Muthoni",

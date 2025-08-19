@@ -13,7 +13,7 @@ export default function ProductHighlights() {
 
   const handleOrderNow = (product) => {
     const message = `Hi! I'd like to order ${product.name} (${product.size}) for KES ${product.price.toLocaleString()}`
-    const whatsappUrl = `https://wa.me/254700000000?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/254705494795?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
@@ -54,7 +54,7 @@ export default function ProductHighlights() {
               {/* Product Image */}
               <div className="h-64 bg-gradient-to-br from-purple-100 to-teal-100 flex items-center justify-center">
                 <img
-                  src={`/abstract-geometric-shapes.png?height=200&width=150&query=${product.name} bottle alcohol`}
+                  src={`/images/bomani-liquor1.jpeg?height=200&width=150&query=${product.name} bottle alcohol`}
                   alt={product.name}
                   className="h-48 w-auto object-contain"
                 />
