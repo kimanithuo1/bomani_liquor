@@ -1,19 +1,36 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useMemo } from "react"
 import productsData from "../data/products.json"
 
 export default function ProductHighlights() {
   const [selectedCategory, setSelectedCategory] = useState("All")
 
-  // Get featured products (first 6 from each category)
-  const featuredProducts = productsData.products.slice(0, 6)
+  // Get unique categories from products
+  const categories = useMemo(() => {
+    const uniqueCategories = [...new Set(productsData.products.map((product) => product.category))]
+    return ["All", ...uniqueCategories.sort()]
+  }, [])
 
-  const categories = ["All", "Whisky", "Wine", "Beer", "Vodka", "Gin", "Champagne"]
+  const featuredProducts = useMemo(() => {
+    let filtered = productsData.products
+
+    if (selectedCategory !== "All") {
+      filtered = filtered.filter((product) => product.category === selectedCategory)
+    }
+
+    // Get products with premium tags or high ratings, limit to 6
+    return filtered
+      .filter(
+        (product) =>
+          product.tags.includes("premium") || product.tags.includes("bestseller") || product.tags.includes("popular"),
+      )
+      .slice(0, 6)
+  }, [selectedCategory])
 
   const handleOrderNow = (product) => {
     const message = `Hi! I'd like to order ${product.name} (${product.size}) for KES ${product.price.toLocaleString()}`
-    const whatsappUrl = `https://wa.me/254705494795?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/254700000000?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
@@ -54,8 +71,8 @@ export default function ProductHighlights() {
               {/* Product Image */}
               <div className="h-64 bg-gradient-to-br from-purple-100 to-teal-100 flex items-center justify-center">
                 <img
-                  src={`/images/bomani-liquor1.jpeg?height=200&width=150&query=${product.name} bottle alcohol`}
-                  alt={product.name}
+                  src={`/abstract-geometric-shapes.png?key=siww7&height=200&width=150&query=${product.name} bottle alcohol`}
+                  alt={`${product.name} - Premium ${product.category.toLowerCase()} available for fast delivery in Nairobi`}
                   className="h-48 w-auto object-contain"
                 />
               </div>
@@ -78,6 +95,7 @@ export default function ProductHighlights() {
                   <button
                     onClick={() => handleOrderNow(product)}
                     className="bg-yellow-500 text-purple-900 px-6 py-2 rounded-full font-semibold hover:bg-yellow-400 transition-colors"
+                    aria-label={`Order ${product.name} for KES ${product.price.toLocaleString()} via WhatsApp`}
                   >
                     Order Now
                   </button>
@@ -96,11 +114,13 @@ export default function ProductHighlights() {
           ))}
         </div>
 
-        {/* View All Products CTA */}
         <div className="text-center mt-12">
-          <button className="bg-purple-900 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-purple-800 transition-colors">
+          <a
+            href="#catalog"
+            className="bg-purple-900 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-purple-800 transition-colors inline-block"
+          >
             View All Products
-          </button>
+          </a>
         </div>
       </div>
     </section>
